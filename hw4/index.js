@@ -99,38 +99,3 @@ let cars = [
 
 
 
-// Нахождение самой дорогой машины
-// let mostExpensiveCar = cars[0];
-// for (let i = 1; i < cars.length; i++) {
-//     if (cars[i].price > mostExpensiveCar.price) {
-//         mostExpensiveCar = cars[i];
-//     }
-// }
-// console.log("Самая дорогая машина:", mostExpensiveCar);
-
-// // Нахождение самой дешевой машины
-// let cheapestCar = cars[0];
-// for (let i = 1; i < cars.length; i++) {
-//     if (cars[i].price < cheapestCar.price) {
-//         cheapestCar = cars[i];
-//     }
-// }
-// console.log("Самая дешевая машина:", cheapestCar);
-
-// // Нахождение самой быстрой машины
-// let fastestCar = cars[0];
-// for (let i = 1; i < cars.length; i++) {
-//     if (cars[i].engine > fastestCar.engine) {
-//         fastestCar = cars[i];
-//     }
-// }
-// console.log("Самая быстрая машина:", fastestCar);
-
-// // Нахождение самой старой машины
-// let oldestCar = cars[0];
-// for (let i = 1; i < cars.length; i++) {
-//     if (cars[i].year < oldestCar.year) {
-//         oldestCar = cars[i];
-//     }
-// }
-// console.log("Самая старая машина:", oldestCar);
